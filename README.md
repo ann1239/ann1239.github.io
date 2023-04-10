@@ -1,6 +1,6 @@
 Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding Assignment, completed.
 
-link: https:https://ann1239.github.io/style4/index.html
+link: h
 
 Woo-hoo! You get to do some coding! Exciting!
 
